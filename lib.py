@@ -5,6 +5,7 @@ import io
 # http://www.voidspace.org.uk/python/mock/helpers.html#mock-open
 # https://stackoverflow.com/a/38454455
 # https://stackoverflow.com/q/30329114
+# https://stackoverflow.com/a/40405086/4028706
 
 def get(file):
     with open(file, 'r') as f:
